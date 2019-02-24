@@ -1,10 +1,10 @@
 # Site settings
-title:'Florence09.github.io'
+title:Florence09.github.io
 email: 
-description:'技术分享博客'
+description:技术分享博客
   Jekyll Theme Demo
 baseurl:''
-url: 'http://Florence09.github.io'
+url: http://Florence09.github.io
 
 github_username:Florence09
 

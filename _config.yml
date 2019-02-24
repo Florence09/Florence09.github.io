@@ -1,16 +1,1 @@
-# Site settings
-title:Florence的个人博客
-email:1071441026@qq.com
-description:技术分享博客
-  Jekyll Theme Demo
-baseurl:''
-url:Florence09.github.io
 
-github_username:Florence09
-
-# Build settings
-markdown: redcarpet
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]

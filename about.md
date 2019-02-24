@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
+*所有博客均为原创，如经转载，请注明作者，谢谢！
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Author: Florence
+* Github: http://github.com/Florence
+* Email: 1071441026@qq.com
